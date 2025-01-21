@@ -1,0 +1,4 @@
+baseURL = 'https://syslander.github.io/'
+languageCode = 'en-us'
+title = 'Syslander'
+theme = 'paper'
